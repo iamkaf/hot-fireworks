@@ -1,14 +1,44 @@
 # Hot Fireworks
 
-If you&#x27;re on fire the fireworks in your inventory start going off.
+Oops you're on fire, your shit is going off now.
 
-This repository provides a starting point for creating Minecraft mods that target Fabric, Forge and NeoForge from the same codebase.
-It is adapted from [jaredlll08's MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template) and stripped down to a minimal starting point.
+## What does this do?
 
-## Directory layout
+If you're on fire, the fireworks in your inventory start going off.
 
-- `common/` contains code shared between all loaders.
-- `fabric/`, `forge/` and `neoforge/` contain loader specific entry points and build logic.
-- `buildSrc/` holds the Gradle scripts that wire everything together.
+That's it. That's the whole mod.
 
-Feel free to expand upon this structure to suit the needs of your own mods.
+## When does this happen?
+
+- Burning in fire? Bang!
+- Sitting in a campfire? Boom!
+- Struck by lightning? Kaboom!
+- Swimming in lava? Pew pew!
+- Magma blocks? Pop!
+- Ghast fireball? Bang!
+- Creeper explosion? Boom!
+
+## Is this useful?
+
+No.
+
+## Is this funny?
+
+Yes.
+
+## Compatibility
+
+- Minecraft: 1.21.10
+- Fabric, Forge, NeoForge
+- Needs Amber
+
+## How to use
+
+1. Put fireworks in your pocket
+2. Step in lava
+3. ?????
+4. PROFIT
+
+## License
+
+MIT
