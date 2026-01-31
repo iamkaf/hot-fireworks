@@ -57,5 +57,5 @@ dependencyResolutionManagement {
 rootProject.name = 'Hot Fireworks'
 include('common')
 include('fabric')
-include('forge')
+// include('forge')
 include('neoforge')
