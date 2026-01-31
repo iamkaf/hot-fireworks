@@ -1,12 +1,12 @@
 # Hot Fireworks
 
-Oops you're on fire, your shit is going off now.
+Oops you're on fire, your rockets are going off now.
 
 ## What does this do?
 
 If you're on fire, the fireworks in your inventory start going off.
 
-That's it. That's the whole mod.
+That's it. That's the whole experience.
 
 ## When does this happen?
 
@@ -22,9 +22,9 @@ That's it. That's the whole mod.
 
 No.
 
-## Is this funny?
+## Is this immersive?
 
-Yes.
+I'd say yes.
 
 ## Compatibility
 
