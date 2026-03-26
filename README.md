@@ -28,7 +28,6 @@ I'd say yes.
 
 ## Compatibility
 
-- Minecraft: 1.21.10
 - Fabric, Forge, NeoForge
 - Needs Amber
 
